@@ -1,0 +1,14 @@
+C:\Users\Luky\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Luky\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Luky\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Luky\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Luky\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Luky\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Luky\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Users\Luky\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Users\Luky\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Users\Luky\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Users\Luky\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Users\Luky\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Users\Luky\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Users\Luky\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
